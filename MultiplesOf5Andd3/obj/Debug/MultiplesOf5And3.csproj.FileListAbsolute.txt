@@ -1,0 +1,8 @@
+D:\MultiplesOf5andd3\MultiplesOf5And3\bin\Debug\MultiplesOf5And3.exe.config
+D:\MultiplesOf5andd3\MultiplesOf5And3\bin\Debug\MultiplesOf5And3.exe
+D:\MultiplesOf5andd3\MultiplesOf5And3\bin\Debug\MultiplesOf5And3.pdb
+D:\MultiplesOf5andd3\MultiplesOf5And3\obj\Debug\MultiplesOf5And3.csproj.AssemblyReference.cache
+D:\MultiplesOf5andd3\MultiplesOf5And3\obj\Debug\MultiplesOf5And3.csproj.SuggestedBindingRedirects.cache
+D:\MultiplesOf5andd3\MultiplesOf5And3\obj\Debug\MultiplesOf5And3.csproj.CoreCompileInputs.cache
+D:\MultiplesOf5andd3\MultiplesOf5And3\obj\Debug\MultiplesOf5And3.exe
+D:\MultiplesOf5andd3\MultiplesOf5And3\obj\Debug\MultiplesOf5And3.pdb
